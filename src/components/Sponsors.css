@@ -1,0 +1,9 @@
+.sponsors {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  width: 100%;
+}
+.sponsors button {
+  border: none;
+}

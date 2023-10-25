@@ -1,0 +1,28 @@
+.navbar {
+  height: 4.5em;
+  position: relative;
+  padding: 0.5em;
+  border-bottom: 2px dashed rgb(141, 141, 141);
+}
+
+.container {
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  height: 100%;
+}
+
+.nav-elements ul {
+  display: flex;
+  flex-direction: row;
+  gap: 4em;
+}
+
+.icons {
+  display: flex;
+  gap: 1em;
+}
+.login {
+  border: none;
+}
