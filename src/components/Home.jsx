@@ -20,6 +20,7 @@ const Home = () => {
         <button>Join as Instructor</button>
       </div>
       <img src="images/pencil.png" alt="" className="home-image" />
+      <div className="home-image-background"></div>
       <div className="home-image-container"></div>
       <img src={Atom} alt="logo" className="atom" />
     </div>

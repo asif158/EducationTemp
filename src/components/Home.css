@@ -73,3 +73,13 @@
   position: absolute;
   translate: 0 30%;
 }
+
+.home-image-background {
+  background-color: #1b143f;
+  border-radius: 50%;
+  height: 500px;
+  width: 500px;
+  position: absolute;
+  top: 50%;
+  left: 28%;
+}
